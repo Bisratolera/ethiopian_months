@@ -1,0 +1,100 @@
+{
+  "1": {
+    "monthName": "መስከረም",
+    "gregorian": "September",
+    "items": [
+      { "title": "እንቁጣጣሽ", "day": 1 },
+      { "title": "ዮሐንስ ፩–፰" },
+      { "title": "ዘካርያስ ፰" },
+      { "title": "ሕንጸተ ቤተ መቅደስ", "day": 16 },
+      { "title": "መስቀል ፲፮–፳፭" },
+      { "title": "መስቀል", "day": 17 }
+    ]
+  },
+  "2": {
+    "monthName": "ጥቅምት",
+    "gregorian": "October",
+    "items": [
+      { "title": "ጽጌ ፩ኛ እሑድ" },
+      { "title": "ጽጌ ፪ኛ እሑድ ትዌድሶ መርዓት" },
+      { "title": "ጽጌ ፫ኛ እሑድ ኪነ ጥበቡ" },
+      { "title": "ጽጌ ፬ኛ እሑድ መኑ መሐሪ ዘከማከ" },
+      { "title": "ጽጌ ፭ኛ እሑድ ክርስቶስ ሠርዐ ሰንበተ" },
+      { "title": "ጽጌ ፮ተኛ እሑድ ጸገየ ወይን" }
+    ]
+  },
+  "3": {
+    "monthName": "ሕዳር",
+    "gregorian": "November",
+    "items": [{ "title": "ጾመ ነቢያት", "day": 16 }]
+  },
+  "4": {
+    "monthName": "ታኅሣሥ",
+    "gregorian": "December",
+    "items": [{ "title": "ልደት", "day": 29 }]
+  },
+  "5": {
+    "monthName": "ጥር",
+    "gregorian": "January",
+    "items": [
+      { "title": "ልደት ሳምንታት (፩–፰ እሑድ)" },
+      { "title": "ልደት ፪ኛ እሑድ ናዝሬት ሕጽነት" },
+      { "title": "ልደት ፫ኛ እሑድ ሖረ ኢየሱስ" },
+      { "title": "ልደት ፬ኛ እሑድ እሙነ ኮነ ልደቱ" },
+      { "title": "ልደት ፭ኛ እሑድ ዘልደት ተወልደ ኢየሱስ" },
+      { "title": "ልደት ፯ኛ እሑድ ተበሃሉ ጻድቃን" },
+      { "title": "ልደት ፰ኛ እሑድ ኢየሩስሌም ትቤ" },
+      { "title": "ልደት ፱ኛ እሑድ ወብዙኃን ኖሎት መጽኡ" }
+    ]
+  },
+  "6": {
+    "monthName": "የካቲት",
+    "gregorian": "February",
+    "items": [{ "title": "ጾመ ነነዌ", "day": 3 }, { "title": "ዐቢይ ጾም", "day": 17 }]
+  },
+  "7": {
+    "monthName": "መጋቢት",
+    "gregorian": "March",
+    "items": [
+      { "title": "ዐቢይ ጾም ፩–፯ እሑድ ርዕሶች (ቅድስት, ምኩራብ, መፃጉዕ, ደብረ ዘይት, ገብር ኄር, ኒቆዲሞስ)" },
+      { "title": "ሆሣዕና ዋዜማ ቅዳሜ ማታ / ሌሊተ ሆሣዕና" },
+      { "title": "ሆሣዕና ዘነግህ" }
+    ]
+  },
+  "8": {
+    "monthName": "ሚያዝያ",
+    "gregorian": "April",
+    "items": [{ "title": "ትንሣኤ", "day": 12 }, { "title": "ትንሣኤ ፪–፯ እሑድ ርዕሶች" }]
+  },
+  "9": {
+    "monthName": "ግንቦት",
+    "gregorian": "May",
+    "items": [{ "title": "ዕርገት", "day": 21 }, { "title": "ትንሣኤ ፱–፲፪ እሑድ" }]
+  },
+  "10": {
+    "monthName": "ሰኔ",
+    "gregorian": "June",
+    "items": [
+      { "title": "ጰራቅሊጦስ", "day": 1 },
+      { "title": "ጾመ ሐዋርያት", "day": 2 },
+      { "title": "ሰኔ ፲፪ እሑድ" },
+      { "title": "ሰኔ ፲፯ እሑድ" },
+      { "title": "ሰኔ ፳፭ እሑድ" }
+    ]
+  },
+  "11": {
+    "monthName": "ሐምሌ",
+    "gregorian": "July",
+    "items": [{ "title": "አስተምህሮ እሑድ" }]
+  },
+  "12": {
+    "monthName": "ነሐሴ",
+    "gregorian": "August",
+    "items": [{ "title": "ክረምት ፩–፲፪ እሑድ" }]
+  },
+  "13": {
+    "monthName": "ጷግሜ",
+    "gregorian": "Puagme",
+    "items": []
+  }
+}

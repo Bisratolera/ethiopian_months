@@ -1,0 +1,22 @@
+{
+  "summary": [
+    { "title": "እንቁጣጣሽ", "month": 1, "monthName": "መስከረም", "day": 1 },
+    { "title": "ጾመ ነቢያት", "month": 3, "monthName": "ሕዳር", "day": 16 },
+    { "title": "ልደት", "month": 4, "monthName": "ታኅሣሥ", "day": 29 },
+    { "title": "ጾመ ነነዌ", "month": 6, "monthName": "የካቲት", "day": 3 },
+    { "title": "ዐቢይ ጾም", "month": 6, "monthName": "የካቲት", "day": 17 },
+    { "title": "ትንሣኤ", "month": 8, "monthName": "ሚያዝያ", "day": 12 },
+    { "title": "ዕርገት", "month": 9, "monthName": "ግንቦት", "day": 21 },
+    { "title": "ጰራቅሊጦስ", "month": 10, "monthName": "ሰኔ", "day": 1 },
+    { "title": "ጾመ ሐዋርያት", "month": 10, "monthName": "ሰኔ", "day": 2 }
+  ],
+  "byMonth": {
+    "1": [{ "day": 1, "title": "እንቁጣጣሽ" }],
+    "3": [{ "day": 16, "title": "ጾመ ነቢያት" }],
+    "4": [{ "day": 29, "title": "ልደት" }],
+    "6": [{ "day": 3, "title": "ጾመ ነነዌ" }, { "day": 17, "title": "ዐቢይ ጾም" }],
+    "8": [{ "day": 12, "title": "ትንሣኤ" }],
+    "9": [{ "day": 21, "title": "ዕርገት" }],
+    "10": [{ "day": 1, "title": "ጰራቅሊጦስ" }, { "day": 2, "title": "ጾመ ሐዋርያት" }]
+  }
+}
